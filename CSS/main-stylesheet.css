@@ -202,7 +202,7 @@ a{
 /* End navbar */
 /* Start Landing */
 .landing {
-  background-image: url(/Images/landing-bg.jpg);
+  background-image: url(../Images/landing-bg.jpg);
   background-size: cover;
 }
 .landing .container .content .info{
