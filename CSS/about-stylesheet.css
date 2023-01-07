@@ -65,7 +65,10 @@
   }
   .about-landing h1{
       font-size: 60px;
-  }
+      font-family: 'Pacifico';
+      color: rgb(196 254 255);
+    text-shadow: 0px 0px 14px white;
+    }
   @media (max-width :600px) {
       .about-landing h1 {
           padding: 30px 10px;
